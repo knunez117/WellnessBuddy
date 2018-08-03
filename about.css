@@ -1,0 +1,67 @@
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
+    /* Add a black background color to the top navigation */
+    .topnav {
+      font-family: 'Poiret One', cursive;
+        background-color: #000000;
+        overflow: hidden;
+    }
+
+    /* Style the links inside the navigation bar */
+    .topnav a {
+        float: left;
+        color: white;
+        text-align: center;
+        padding: 20px 22px;
+        text-decoration: none;
+        font-size: 20px;
+    }
+
+    /* Change the color of links on hover */
+    .topnav a:hover {
+        background-color: #dddd;
+        color: black;
+        opacity: .8;
+    }
+
+    /* Add a color to the active/current link */
+    .topnav a.active {
+        background-color: #d11d1d;
+        color: black;
+    }
+body {
+  background-color:  #d11d1d;
+}
+h6 {
+    background-color: #000000;
+  }
+h2 {
+  font-size: 35px;
+  font-family: 'Poiret One', cursive;
+  font-weight: 5500;
+}
+p {
+  line-height: 1.5;
+  border-radius: 30px;
+  padding:8px 8px;
+  margin-left: 45px;
+  margin-right: 40px;
+  border: 7px double gray;
+  background-color: white;
+  font-size: 18px;
+  font-family: 'Nixie One', cursive;
+  font-weight: bold;
+  align-items: center;
+}
+.center {
+    text-align: center;
+    line-height: 1.5;
+    border-radius: 30px;
+    padding:8px 8px;
+    margin-left: 45px;
+    margin-right: 40px;
+    border: 7px double gray;
+    background-color: white;
+}

@@ -1,0 +1,76 @@
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+    /* Add a black background color to the top navigation */
+    .topnav {
+        background-color: #000000;
+        overflow: hidden;
+        font-family: 'Poiret One', cursive;
+    }
+
+    /* Style the links inside the navigation bar */
+    .topnav a {
+        float: left;
+        color: white;
+        text-align: center;
+        padding: 20px 22px;
+        text-decoration: none;
+        font-size: 20px;
+    }
+
+    /* Change the color of links on hover */
+    .topnav a:hover {
+        background-color: #dddd;
+        color: black;
+        opacity: .8;
+    }
+
+    /* Add a color to the active/current link */
+    .topnav a.active {
+        background-color: #d11d1d;
+        color: black;
+    }
+body {
+  background-color:  #d11d1d;
+}
+h6 {
+    background-color: #000000;
+}
+button{
+margin: 16px;
+margin-left: inherit;
+
+border: 2px solid gray;
+padding: 3px;
+border-radius: 15px;
+text-decoration: none;
+background-color: #b8b894;
+color: white;
+position: static;
+  top: -100px;
+margin: 16px;
+transform: translate(-130%, 100%);
+}
+h8{
+  color: black;
+
+  margin: 15px;
+  font-size: 35px;
+  font-family:'Bungee Shade', cursive;
+  position: relative;
+  top: -30px;
+  font-weight: bolder;
+}
+h10{
+  font-weight: bolder;
+  color: BLACK;
+  font-size: 35px;
+  font-family:'Bungee Shade', cursive;
+  margin: 10px;
+}
+h4{
+  font-size: 14px;
+  font-family:'Nixie One', cursive;
+
+}

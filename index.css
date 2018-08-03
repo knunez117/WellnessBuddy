@@ -1,0 +1,45 @@
+body{
+  margin: 0;
+  font-family: 'Poiret One', cursive;
+  font-size: 17px;
+  color: white;
+  line-height: 1.6;
+  font-weight: bold;
+  
+}
+
+body{
+  background-color: black;
+  color: white;
+}
+#showcase{
+  text-align: center;
+  border: 5px double white;
+    width: 250px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 70px;
+    background-color: inherit;
+  position: relative;
+  top: -37px;
+
+  border-radius: 30px;
+
+}
+.button{
+  border: 2px solid white;
+  padding: 7px;
+  border-radius: 30px;
+  text-decoration: none;
+  background-color: gray;
+  color: white;
+
+}
+
+.button:hover{
+  background-color: #a11d1a;
+}
+center img{
+  position: relative;
+  top: -25px;
+}

@@ -1,0 +1,60 @@
+body{
+  font-family: 'Nixie One', cursive;
+}
+
+button{
+  background-color: #ccccb3;
+  border: double;
+  color: black;
+  padding: 5px 5px;
+  text-align: center;
+  font-size: 16px;
+  margin:16px;
+  margin-left: inherit;
+  }
+
+a:hover{
+  color: green;
+}
+
+a{
+  text-decoration: none;
+  font-family: 'Nixie One', cursive;
+  font-weight: bold;
+}
+
+a{
+  color: #ff4d4d;
+}
+/* //Questions// */
+h2{
+  color:gray;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+
+.text {
+    width: 500px;
+    border: 10px double gray;
+    padding: 20px;
+    top: 160%;
+    left: 50%;
+    margin-left: -150px;
+    margin-top: -100px;
+    margin-bottom: 100px;
+    position: absolute;
+    transform: translate(-22.5%, -50%);
+    background-color: white;
+}
+
+body{
+  background-color: #9999ff;
+}
+h1{
+  color: gray;
+  font-family: 'Bungee Shade', cursive;
+  font-weight: bold;
+  margin-top: -45px;
+  font-size: 70px;
+}

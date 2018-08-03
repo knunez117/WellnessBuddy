@@ -1,0 +1,86 @@
+h1{
+  color: 	black;
+  font-size: 70px;
+  font-family: 'Poiret One', cursive;
+  margin-top: -45px;
+  margin-left: 40px;
+  margin-right: 40px;
+  position: relative;
+  top: 25px;
+}
+
+body {
+  font-family: 'Nixie One', cursive;
+  font-size: 16px;
+}
+
+h2{
+  color: black;
+  font-family: 'Nixie One', cursive;
+  font-weight: bold;
+  font-size: 20px;
+
+}
+h3{
+  font-family: 'Poiret One', cursive;
+  margin-top: -130px;
+  font-size: 70px;
+  color: black;
+  position: relative;
+  top: 130px;
+}
+
+
+
+}
+
+input {
+	margin-bottom: 20px;
+}
+
+.text{
+  width: 500px;
+  border: 10px double gray;
+  padding: 20px;
+  top: 145%;
+  left: 50%;
+  margin-left: -150px;
+  margin-top: -330px;
+  margin-bottom: 100px;
+  position:absolute;
+  transform: translate(-22.5%, -50%);
+  background-color: white;
+  height:auto;
+  border-radius: 30px
+
+
+}
+body{
+  background-color: #a11d1a;
+}
+
+button{
+  /* background-color: #ccccb3;
+  padding: 5px 5px;
+  /* border: double;
+  color: black;
+  text-align: center; */
+  margin: 16px;
+  margin-left: inherit;
+
+  border: 2px solid gray;
+  padding: 3px;
+  border-radius: 15px;
+  text-decoration: none;
+  background-color: #b8b894;
+  color: white;
+}
+button:hover{
+    background-color: #a11d1a;
+}
+a{
+  text-decoration: none;
+  font-family: 'Nixie One', cursive;
+  font-weight: bold;
+  color: white;
+}

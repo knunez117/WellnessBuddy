@@ -1,0 +1,291 @@
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+    /* Add a black background color to the top navigation */
+    .topnav {
+        background-color: #000000;
+        overflow: hidden;
+        font-family: 'Poiret One', cursive;
+    }
+
+    /* Style the links inside the navigation bar */
+    .topnav a {
+        float: left;
+        color: white;
+        text-align: center;
+        padding: 20px 22px;
+        text-decoration: none;
+        font-size: 20px;
+    }
+
+    /* Change the color of links on hover */
+    .topnav a:hover {
+        background-color: #dddd;
+        color: black;
+        opacity: .8;
+    }
+
+    /* Add a color to the active/current link */
+    .topnav a.active {
+        background-color: #d11d1d;
+        color: black;
+    }
+body {
+  background-color:  #d11d1d;
+}
+h6 {
+    background-color: #000000;
+}
+h1{
+  text-align: center;
+  color: #a11d1a;
+  font-family: 'Poiret One', cursive;
+  font-size: 60px;
+}
+
+h3{
+  color: darker;
+  font-family: 'Poiret One', cursive;
+  font-size: 30px;
+}
+body {
+  background-color: white;
+}
+
+form{
+  font-family: 'Poiret One', cursive;
+  font-size: 25px;
+}
+.map svg {
+  height: auto;
+  width: 400px;
+  margin: 0 auto;
+  display: block;
+}
+
+.map g {
+  fill: #ccc;
+  stroke: #333;
+  stroke-width: 1;
+}
+
+
+
+#cherry:hover{
+  stroke:black;
+  fill:#0066cc;
+  cursor:pointer;
+
+}
+
+#topScoop:hover{
+  stroke:black;
+  fill:#ffcc00;
+  cursor:pointer;
+
+}
+
+#middleScoop:hover{
+  stroke:black;
+  fill:#ff6600;
+  cursor:pointer;
+
+}
+
+#bottomScoop:hover{
+  stroke:black;
+  fill:#e60000;
+  cursor:pointer;
+
+}
+
+#conePiece1:hover{
+  stroke:black;
+  fill:#ff6699;
+  cursor:pointer;
+
+}
+
+#conePiece2:hover{
+  stroke:black;
+  fill:#33cc33;
+  cursor:pointer;
+
+}
+
+#conePiece3:hover{
+  stroke:black;
+  fill:#00cc99;
+  cursor:pointer;
+
+}
+
+#conePiece4:hover{
+  stroke:black;
+  fill:#ff00ff;
+  cursor:pointer;
+
+}
+
+#conePiece5:hover{
+  stroke:black;
+  fill:#0066cc;
+  cursor:pointer;
+
+}
+
+#conePiece6:hover{
+  stroke:black;
+  fill:#ffcc00;
+  cursor:pointer;
+
+}
+
+#conePiece7:hover{
+  stroke:black;
+  fill:#ff6600;
+  cursor:pointer;
+
+}
+
+#conePiece8:hover{
+  stroke:black;
+  fill:#e60000;
+  cursor:pointer;
+
+}
+
+#conePiece9:hover{
+  stroke:black;
+  fill:#ff6699;
+  cursor:pointer;
+
+}
+
+#conePiece10:hover{
+  stroke:black;
+  fill:#33cc33;
+  cursor:pointer;
+
+}
+
+#conePiece11:hover{
+  stroke:black;
+  fill:#00cc99;
+  cursor:pointer;
+
+}
+
+#conePiece12:hover{
+  stroke:black;
+  fill:#ff00ff;
+  cursor:pointer;
+
+}
+
+#conePiece13:hover{
+  stroke:black;
+  fill:#0066cc;
+  cursor:pointer;
+
+}
+
+#conePiece14:hover{
+  stroke:black;
+  fill:#ffcc00;
+  cursor:pointer;
+
+}
+
+#conePiece15:hover{
+  stroke:black;
+  fill:#ff6600;
+  cursor:pointer;
+
+}
+
+#conePiece16:hover{
+  stroke:black;
+  fill:#e60000;
+  cursor:pointer;
+
+}
+
+#conePiece17:hover{
+  stroke:black;
+  fill:#ff6699;
+  cursor:pointer;
+
+}
+
+#conePiece18:hover{
+  stroke:black;
+  fill:#33cc33;
+  cursor:pointer;
+
+}
+
+#drop:hover{
+  stroke:black;
+  fill:#00cc99;
+  cursor:pointer;
+
+}
+
+#sprinkle1:hover{
+  stroke:black;
+  fill:#0066cc;
+  cursor:pointer;
+
+}
+
+#sprinkle2:hover{
+  stroke:black;
+  fill:#0066cc;
+  cursor:pointer;
+
+}
+
+#sprinkle3:hover{
+  stroke:black;
+  fill:#ffcc00;
+  cursor:pointer;
+
+}
+
+#sprinkle4:hover{
+  stroke:black;
+  fill:#ff6600;
+  cursor:pointer;
+
+}
+
+#sprinkle5:hover{
+  stroke:black;
+  fill:##e60000;
+  cursor:pointer;
+
+}
+
+#sprinkle6:hover{
+  stroke:black;
+  fill:#ff6699;
+  cursor:pointer;
+
+}
+
+#sprinkle7:hover{
+  stroke:black;
+  fill:#33cc33;
+  cursor:pointer;
+
+}
+
+#sprinkle8:hover{
+  stroke:black;
+  fill:#00cc99;
+  cursor:pointer;
+
+}

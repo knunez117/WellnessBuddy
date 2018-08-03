@@ -1,0 +1,75 @@
+/*Webpage stylesheet*/
+
+h3{
+  position: relative;
+   top: -40px;
+  font-size: 20px;
+  font-family: 'Poiret One', cursive;
+}
+h9{
+
+  font-size: 40px;
+  font-family: 'Poiret One', cursive;
+  font-weight: bolder;
+}
+h1{
+
+  font-size:60px;
+  font-family:'Bungee Shade', cursive;
+}
+h2{
+
+  font-size: 35px;
+  font-family:'Bungee Shade', cursive;
+}
+h4{
+  font-size: 14px;
+  font-family:'Nixie One', cursive;
+  position: relative;
+   top: -40px;
+}
+h5{
+    font-size: 35px;
+    font-family:'Bungee Shade', cursive;
+    margin-top: -70px;
+}
+me{
+  margin-top: 80px;
+}
+
+ button {
+    background-color: #ccccb3;
+    border: double;
+    color: black;
+    padding:5px 5px;
+    text-align: center;
+    font-size: 16px;
+    margin: 16px;
+    transform: translate(-130%, 100%);
+  }
+
+  a:hover{
+    color:#ff3333;
+  }
+a{
+  text-decoration:none;
+  font-family: 'Poiret One', cursive;
+  font-weight:bold;
+}
+
+a{
+  color: #ff4d4d;
+
+}
+button:hover{
+  background-color: #d11d1d;
+}
+body{
+  background-color: #d11d1d;
+}
+
+.card{
+  background-color: white;
+  border: 7px double gray;
+
+}
